@@ -1,4 +1,4 @@
-# 👨‍💻 Furkan Berkay Özcan | Full-Stack Developer 🚀  
+# 👨‍💻 Furkan Berkay Özcan | Full-Stack Developer 
 
 ### **"Turning ideas into reality with code."**  
 
